@@ -107,12 +107,13 @@ if(NUM_LOOPS>=10)    {
 
 
 # OUTPUT
+$ ./sem.o
 
-$ ./sem.o 
 ![image](https://github.com/user-attachments/assets/2d264f9c-0d4b-4e36-be27-0da29d4e3d8e)
 
 
 $ ipcs
+
 ![image](https://github.com/user-attachments/assets/55859e7d-276d-4eed-be21-aa617b19bc9d)
 
 
